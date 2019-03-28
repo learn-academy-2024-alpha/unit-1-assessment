@@ -1,1 +1,1 @@
-# Assessments for Javascript Foundations
+# Assessments for Javascript Intro
