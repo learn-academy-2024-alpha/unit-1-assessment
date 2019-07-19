@@ -1,62 +1,62 @@
-// Intro to Javascript Assessments
+// ASSESSMENT 1: INTRO TO JAVASCRIPT
+// Coding practical questions
 
+// ---------------------------------------------
 // Consider this variable:
 
-var mantra = "Be the dev";
+var mantra = "Be the dev"
 
-// 1. Write the code that returns 'B' from mantra.
+// 1a. Write the code that returns 'B' from mantra.
 
-// 2. Write the code that determines if there is a 'x' in mantra.
+// 1b. Write the code that determines if there is an 'x' in mantra.
 
-// 3. Write the code that determines if there is a 'v' in mantra.
+// 1c. Write the code that determines if there is a 'v' in mantra.
 
-// Stretch: Write the code that returns the position of 'v' in mantra.
+// 1d. Stretch: Write a function that can take any letter as an argument and returns if it exists within the given string.
 
 
-// Consider the following statement:
+// ---------------------------------------------------
+// Consider the following variables:
 
-var codingIsEasy
-var imBored
+var myDog = "Snoopy"
+var myCat = "Garfield"
 
-if (codingIsEasy && imBored) {
-    console.log("I need more!")
-} else {
-    console.log("Steady as she goes")
-}
+// 2a. Create a function that returns the longer of the two variables. Expected output: "Garfield"
 
-// 4. Update the codingIsEasy and imBored variables above the statement to the values required to log "I need more!"
+// 2b. Create a function that takes in two arguments and returns an array containing the two variables. Expected output: ["Snoopy", "Garfield"]
 
-// Consider the following statement:
+// 2c. Stretch: Write a function that returns the two variables in all lowercase letters.
 
-var imLost
-var imFrustrated
 
-if (imLost || imFrustrated) {
-    console.log('Break time!')
-} else {
-    console.log('Keep coding!')
-}
+// -----------------------------------------------
+// Consider this variable:
 
-// 5. Update the imLost and imFrustated variables above the statement to the values required to log "Keep coding!"
+var myMessage = "Learning is fun!"
 
-// 6a. Recall the mantra variable from the first question. Write the code that logs each letter of mantra using a for loop.
+// 3a. Write the code that logs each letter of the message using a for loop.
 
-// Stretch: Using a while loop.
+// 4b. Stretch: Write the code that logs each letter of the message using a while loop.
 
-// Super Stretch: Using forEach().
+// 4c. Super Stretch: Write the code that logs each letter of the message using forEach().
 
+
+// ----------------------------------------------
 // Consider the following variable:
 
-var message = "thisisateststring"
+var testString = "thisisateststring"
 
-// 7. Write a function that takes a string like message as an argument and returns the string without vowels.
+// 5a. Write a function that takes the variable as an argument and returns the string without vowels. Expected output: "thsstststrng"
 
-// Stretch: Update your function to throw an exception if the argument is not a string.
+// 5b. Stretch: Update your function to return an error message if the variable is not a string. Copy and paste your function to add these changes.
 
-// Super Duper Stretch: Update your function to throw a TypeError if the argument is not a string.
 
+// ----------------------------------------------
 // Consider the following variable:
 
-var toonimals = [ {name: 'Itchy', animal: 'mouse'}, {name: 'Stimpy', animal: 'cat'}, {name: 'Daffy', animal: 'duck'}, {name: 'Scratchy', animal: 'cat'}, {name: 'Ren', animal: 'dog'}, {name: 'Felix', animal: 'cat'}]
+var toonimals = [ {name: "Itchy", animal: "mouse"}, {name: "Stimpy", animal: "cat"}, {name: "Daffy", animal: "duck"}, {name: "Scratchy", animal: "cat"}, {name: "Ren", animal: "dog"}, {name: "Felix", animal: "cat"}]
 
-// 8. Write a function that takes an array like toonimals and returns an array with only the toons that are cats.
+// 6a. Write a function that takes in the toonimals array as an argument and returns an array with only the toon objects that are cats. Expected output: [ { name: "Stimpy", animal: "cat" }, { name: "Scratchy", animal: "cat" }, { name: "Felix", animal: "cat" } ]
+
+//6b. Write a function that returns only the names of all the non-cats. Expected output: "Itchy" "Daffy" "Ren"
+
+//6c. Stretch: Create a function that will print a sentence for every toon stating their name and their animal type. Use string interpolation. Expected output: "Itchy is a mouse" "Stimpy is a cat" "Daffy is a duck" "Scratchy is a cat" "Ren is a dog" "Felix is a cat"

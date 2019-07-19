@@ -1,15 +1,73 @@
-# Intro to Javascript Assessments
+# ASSESSMENT 1: INTRO TO JAVASCRIPT
+## Interview Practice Questions
 
-Answer these questions, then follow the instructions to submit your first assessment!
+Answer the following questions. First, without external resources. Challenge yourself to answer from memory. Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn.   
 
-#### 1. What is a function? Why would you use one?
+1. What is a function? Why would you use one?
 
-#### 2. What is a method?
+  Your answer:
 
-#### 3. What are some examples of javascript string methods?
+  Researched answer:
 
-#### 4. Explain the difference between accessor and mutator methods. Why would you use one over the other?
 
-#### 5. Explain the differences between console.log() and return. Why would you use one over the other?
+2. What is a method?
 
-#### 6. What is one thing we did in class this week that helped you learn the most?  
+  Your answer:
+
+  Researched answer:
+
+
+3. List 5 examples of JavaScript string methods.
+
+  Your answer:
+
+  Researched answer:
+
+
+4. List 5 examples of JavaScript array methods.
+
+  Your answer:
+
+  Researched answer:
+
+
+5. Explain the difference between accessor and mutator methods. Provide an example of each.
+
+  Your answer:
+
+  Researched answer:
+
+
+6. Explain the difference between console.log() and return.
+
+  Your answer:
+
+  Researched answer:
+
+
+7. In regards to functions, what is an argument? What is the difference between an argument and a variable?
+
+  Your answer:
+
+  Researched answer:
+
+
+8. Give a brief description of JavaScript as if you were explaining it to someone who doesn't know anything about programming.
+
+  Your answer:
+
+  Researched answer:
+
+
+9. Give a brief description of proper pair programming techniques. What are the rolls of each person?
+
+  Your answer:
+
+  Researched answer:
+
+
+10. What is one thing we did in class this week you found helpful?  
+
+  Your answer:
+
+  Researched answer:
