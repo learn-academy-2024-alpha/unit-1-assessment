@@ -10,64 +10,44 @@ Answer the following questions. First, without external resources. Challenge you
   Researched answer:
 
 
-2. What is a method?
+
+2. List 5 examples of JavaScript array methods.
 
   Your answer:
 
   Researched answer:
 
 
-3. List 5 examples of JavaScript string methods.
+
+3. Explain the difference between console.log() and return.
 
   Your answer:
 
   Researched answer:
 
 
-4. List 5 examples of JavaScript array methods.
+
+4. In regards to functions, what is an argument? What is the difference between an argument and a variable?
 
   Your answer:
 
   Researched answer:
 
 
-5. Explain the difference between accessor and mutator methods. Provide an example of each.
+
+5. Give a brief description of proper pair programming techniques. What are the rolls of each person?
 
   Your answer:
 
   Researched answer:
 
 
-6. Explain the difference between console.log() and return.
+
+6. Give a brief description of JavaScript as if you were explaining it to someone who doesn't know anything about programming.
 
   Your answer:
 
-  Researched answer:
 
-
-7. In regards to functions, what is an argument? What is the difference between an argument and a variable?
+7. What is one thing we did in class this week you found helpful?  
 
   Your answer:
-
-  Researched answer:
-
-
-8. Give a brief description of JavaScript as if you were explaining it to someone who doesn't know anything about programming.
-
-  Your answer:
-
-  Researched answer:
-
-
-9. Give a brief description of proper pair programming techniques. What are the rolls of each person?
-
-  Your answer:
-
-  Researched answer:
-
-
-10. What is one thing we did in class this week you found helpful?  
-
-  Your answer:
-
-  Researched answer:
