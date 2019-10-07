@@ -36,7 +36,7 @@ var myCat = "Garfield"
 
 
 
-// 2c. STRETCH: Write a function that returns the two variables in all lowercase letters. Expected output: "snoopy garfield"
+// 2c. STRETCH: Write a function that accepts two variables and returns a string in all lowercase letters. Expected output: "snoopy garfield"
 
 
 
