@@ -46,7 +46,7 @@ var myCat = "Garfield"
 var myMessage = "Learning is fun!"
 
 // 3a. Write the code that logs each letter of the message using a for loop.
-
+//hint: "logs" in this case means "prints to the terminal console."  This is typically done with a console.log(x), where x is the string, function, etc that you wish to see in the terminal.
 
 
 // 3b. Write the code that logs each letter of the message using map.
