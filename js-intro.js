@@ -43,21 +43,21 @@ var myCat = "Garfield"
 
 // ------------------------------ Consider the following variable:
 
-var myMessage = "Learning is fun!"
+var myNumbers = [3, 78, 0, 62, -9]
 
-// 3a. Write the code that logs each letter of the message using a for loop.
-//hint: "logs" in this case means "prints to the terminal console."  This is typically done with a console.log(x), where x is the string, function, etc that you wish to see in the terminal.
-
-
-// 3b. Write the code that logs each letter of the message using map.
+// 3a. Write the code that multiplies each of the numbers by 2 using a for loop.
 
 
 
-// 3c. STRETCH: Write the code that logs each letter of the message using a while loop.
+// 3b. Write the code multiplies each of the numbers by 2 using map.
 
 
 
-// 3d. SUPER STRETCH: Write the code that logs each letter of the message using forEach().
+// 3c. STRETCH: Write the code that multiplies each of the numbers by 2 using a while loop.
+
+
+
+// 3d. STRETCH: Write the code that multiplies each of the numbers by 2 using forEach().
 
 
 
