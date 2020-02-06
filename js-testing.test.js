@@ -1,11 +1,12 @@
 // ASSESSMENT 1: INTRO TO JAVASCRIPT TESTING WITH JEST
 // Coding practical questions
 
+// To set up the testing environment run the following commands in terminal
+// $ npm -g install yarn
+// $ yarn add jest
 
-
-// $ yarn add jest in the terminal to add dependency files
-// $ yarn jest
 // Practice red-green refactor development
+// $ yarn jest
 
 
 // --------------------1a) Create a test for a function called addThemUp that takes two numbers as arguments and returns the sum.
