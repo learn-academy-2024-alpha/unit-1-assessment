@@ -1,5 +1,5 @@
 # ASSESSMENT 1: INTRO TO JAVASCRIPT
-## Interview Practice Questions
+## Tech Interview Practice Questions
 
 Answer the following questions. First, without external resources. Challenge yourself to answer from memory. Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn.   
 
@@ -11,7 +11,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-2. List 5 examples of JavaScript array methods.
+2. What is the difference between map and filter?
 
   Your answer:
 
@@ -19,7 +19,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-3. Explain the difference between console.log() and return.
+3. What is the difference between console.log() and return?
 
   Your answer:
 
@@ -27,7 +27,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-4. In regards to functions, what is an argument? What is the difference between an argument and a variable?
+4. In regards to functions, what is an argument?
 
   Your answer:
 
@@ -43,11 +43,30 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-6. Give a brief description of JavaScript as if you were explaining it to someone who doesn't know anything about programming.
+6. What is TDD? Describe the work flow associated with TDD.
+
+  Your answer:
+
+  Researched answer:
+
+
+
+7. What is something we did in class this week you found helpful?  
 
   Your answer:
 
 
-7. What is one thing we did in class this week you found helpful?  
 
-  Your answer:
+## Looking Ahead: Terms for Next Week
+
+Define the following terms to the best of your ability.
+
+- React
+
+- Yarn
+
+- React State
+
+- CRUD
+
+- this

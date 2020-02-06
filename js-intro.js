@@ -1,96 +1,61 @@
 // ASSESSMENT 1: INTRO TO JAVASCRIPT
 // Coding practical questions
 
-// --------------------------- Consider the following variable:
+// Please read all questions thoroughly
+// Psuedo coding is highly recommended
 
-var mantra = "Be the dev"
+// --------------------1) Create a function that determines if a temperature is below boiling point, at boiling point or above boiling point. Boiling point is 212 degrees Farhenheit.
+// Use the test variables provided below. Expected outcome: "35 is below boiling point", "350 is above boiling point", "212 is at boiling point"
 
-// 1a. Write the code that determines if there is a 'B' in mantra.
-
-
-
-// 1b. Write the code that determines if there is an 'x' in mantra.
-
-
-
-// 1c. Write the code that determines if there is a 'v' in mantra.
-
-
-
-// 1d. STRETCH: Write a function that can take two arguments - a string and a letter and returns a sentence telling the user if the letter exists within the string.
-
-
-
-// ------------------------------ Consider the following variables:
-
-var myDog = "Snoopy"
-var myCat = "Garfield"
-
-// 2a. Create a function that returns the longer of the two variables. Expected output: "Garfield"
+var temp1 = 35
+var temp2 = 350
+var temp3 = 212
 
 
 
 
-// 2b. Create a function that takes in two arguments and returns an array containing the two variables. Expected output: ["Snoopy", "Garfield"]
+// --------------------2) Create a function that multiplies each number in the array by 5 using a for loop.
+// Use the test variable provided below. Expected outcome: [15, 35, 0, 30, -45]
+
+var myNumbers1 = [3, 7, 0, 6, -9]
 
 
 
 
-// 2c. STRETCH: Write a function that accepts two variables and returns a string in all lowercase letters. Expected output: "snoopy garfield"
+// --------------------3) Create a function that multiplies each number in the array by 5 using map.
+// Use the test variable provided below. Expected outcome: [40, -35, 0, 30, 10]
+
+var myNumbers2 = [8, -7, 0, 6, 2]
 
 
 
 
-// ------------------------------ Consider the following variable:
+// --------------------4) Create a function that removes all the vowels from a string.
+// Use the test variables provided below. Expected output: "HyThrLrnStdnt" "LvJvScrpt"
 
-var myNumbers = [3, 78, 0, 62, -9]
-
-// 3a. Write the code that multiplies each of the numbers by 2 using a for loop.
-
-
-
-// 3b. Write the code multiplies each of the numbers by 2 using map.
-
-
-
-// 3c. STRETCH: Write the code that multiplies each of the numbers by 2 using a while loop.
-
-
-
-// 3d. STRETCH: Write the code that multiplies each of the numbers by 2 using forEach().
-
-
-
-
-// ---------------------------- Consider the following variable:
-
-var testString = "thisisateststring"
-
-// 4a. Write a function that takes the variable as an argument and returns the string without vowels. Expected output: "thsstststrng"
+var stringWithVowels1 = "HeyThereLearnStudent"
+var stringWithVowels2 = "ILoveJavaScript"
 
 
 
 
 
-// 4b. STRETCH: Update your function to return an error message if the variable is not a string. Copy and paste your function to add these changes.
+// --------------------5) Expand the logic from #4 to inform your user if the variable passed into the vowel removal function is not a string.
+// Copy and paste or rewrite the function. Use the test variables provided below.
+
+var notAString1 = true
+var notAString2 = 42
 
 
 
 
+// --------------------6) Create a function that takes the toonimals array and returns an array with only the toon objects that are cats.
+// Expected output: [ { name: "Stimpy", animal: "cat" }, { name: "Scratchy", animal: "cat" }, { name: "Felix", animal: "cat" } ]
 
-
-// ------------------------------- Consider the following variable:
 
 var toonimals = [ {name: "Itchy", animal: "mouse"}, {name: "Stimpy", animal: "cat"}, {name: "Daffy", animal: "duck"}, {name: "Scratchy", animal: "cat"}, {name: "Ren", animal: "dog"}, {name: "Felix", animal: "cat"}]
 
-// 5a. Write a function that takes in the toonimals array as an argument and returns an array with only the toon objects that are cats. Expected output: [ { name: "Stimpy", animal: "cat" }, { name: "Scratchy", animal: "cat" }, { name: "Felix", animal: "cat" } ]
 
 
-
-
-//5b. Write a function that returns only the names of all the non-cats. Expected output: "Itchy" "Daffy" "Ren"
-
-
-
-
-//5c. STRETCH: Create a function that will print a sentence for every toon stating their name and their animal type. Use string interpolation. Expected output: "Itchy is a mouse" "Stimpy is a cat" "Daffy is a duck" "Scratchy is a cat" "Ren is a dog" "Felix is a cat"
+// --------------------7) Using the toonimals variable from #6, create a function that returns only the names of the non-cats.
+// Expected output: "Itchy" "Daffy" "Ren"
