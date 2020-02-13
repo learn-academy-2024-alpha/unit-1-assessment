@@ -1,4 +1,4 @@
-# Assessments for Javascript Intro
+# Assessments for Week 1
 
 - Assessment should be accessed through GitHub Classroom
 - Clone Assessment
