@@ -1,4 +1,4 @@
-# Assessments for Week 1
+# Assessment for Week 1
 
 - Assessment should be accessed through GitHub Classroom
 - Clone Assessment
