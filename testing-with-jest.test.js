@@ -1,7 +1,6 @@
-// ASSESSMENT 1: INTRO TO JAVASCRIPT TESTING WITH JEST
-// Coding practical questions
+// ASSESSMENT 1: Testing practical questions
 
-// To set up the testing environment run the following commands in terminal
+// To set up the testing environment in AWS run the following commands in terminal
 // $ npm -g install yarn
 // $ yarn add jest
 

@@ -1,5 +1,4 @@
-// ASSESSMENT 1: INTRO TO JAVASCRIPT
-// Coding practical questions
+// ASSESSMENT 1: Coding practical questions
 
 // Please read all questions thoroughly
 // Psuedo coding is highly recommended
