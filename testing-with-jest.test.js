@@ -1,7 +1,5 @@
 // ASSESSMENT 1: Testing practical questions
 
-// To set up the testing environment in AWS run the following commands in terminal
-// $ npm -g install yarn
 // $ yarn add jest
 
 // Practice red-green refactor development
