@@ -1,6 +1,9 @@
 # ASSESSMENT 1: Tech Interview Practice Questions
+Answer the following questions.
 
-Answer the following questions. First, without external resources. Challenge yourself to answer from memory. Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn.   
+First, without external resources. Challenge yourself to answer from memory as if you were in a job interview.
+
+Then, research the question to expand on your answer. Even if you feel you have answered the question completely, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
 1. What is a function? Why would you use one?
 
@@ -10,7 +13,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-2. What is the difference between map and filter?
+2. What is the difference between .map() and .filter()?
 
   Your answer:
 
