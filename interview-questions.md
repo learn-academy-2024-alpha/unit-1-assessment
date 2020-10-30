@@ -63,8 +63,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
+- Classes
 - React
-- Yarn
 - React State
 - CRUD
-- this
