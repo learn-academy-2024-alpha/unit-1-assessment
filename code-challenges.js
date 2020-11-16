@@ -3,10 +3,10 @@
 // To run file: navigate to the correct directory in terminal, $ node code-challenges.js
 
 // Please read all questions thoroughly
-// Psuedo coding is HIGHLY recommended
+// Pseudo coding is HIGHLY recommended
 // If you get stuck, please leave comments to help us understand your thought process
 
-// --------------------1) Create a function that determines if a temperature is below boiling point, at boiling point or above boiling point. Boiling point is 212 degrees Farhenheit.
+// --------------------1) Create a function that determines if a temperature is below boiling point, at boiling point or above boiling point. Boiling point is 212 degrees Fahrenheit.
 // Use the test variables provided below. Expected outcome: "35 is below boiling point", "350 is above boiling point", "212 is at boiling point"
 
 var temp1 = 35
@@ -46,10 +46,12 @@ var stringWithVowels2 = "ILoveJavaScript"
 
 
 // --------------------5) Copy/paste your code from #4. Refactor your code to include non-string edge cases. Inform your user that the variable passed into the vowel removal function is not a string.
-// Use the test variables provided below. Expected output: "true is not a string" "42 is not a string"
+// Use the test variables provided below. Expected output: "true is not a string" "42 is not a string" "mCdngMstr"
 
-var notAString1 = true
-var notAString2 = 42
+var refactorTester1 = true
+var refactorTester2 = 42
+var refactorTester3 = "IAmACodingMaster"
+
 
 
 
