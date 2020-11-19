@@ -67,4 +67,4 @@ var toonimals = [ { name: "Itchy", animal: "mouse" }, { name: "Stimpy", animal: 
 
 
 // --------------------7) Using the toonimals variable from #6, create a function that returns only the names of the non-cats.
-// Expected output: "Itchy" "Daffy" "Ren"
+// Expected output: "Itchy Daffy Ren"
