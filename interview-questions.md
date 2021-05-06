@@ -13,7 +13,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-2. What is the difference between .map() and .filter()?
+2. What is the difference between console.log() and return?
 
   Your answer:
 
@@ -21,7 +21,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-3. What is the difference between console.log() and return?
+3. In regards to functions, what is the difference between an argument and a parameter?
 
   Your answer:
 
@@ -29,7 +29,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-4. In regards to functions, what is an argument?
+4. What is a built-in method?
 
   Your answer:
 
@@ -45,15 +45,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-6. What is TDD? Describe the work flow associated with TDD.
-
-  Your answer:
-
-  Researched answer:
-
-
-
-7. What is something we did in class this week you found helpful?  
+6. What is something we did in class this week you found helpful?  
 
   Your answer:
 
@@ -63,7 +55,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-- Classes
-- React
-- React State
-- CRUD
+1. Higher Order Functions:
+
+2. Jest:
+
+3. Classes:
+
+4. Constructor:
+
+5. React:
