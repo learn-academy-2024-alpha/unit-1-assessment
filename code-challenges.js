@@ -3,6 +3,7 @@
 // To run file: navigate to the correct directory in terminal, $ node code-challenges.js
 
 // Please read all questions thoroughly
+// All problems can be solved with concepts covered in class or in the syllabus
 // Pseudo coding is REQUIRED
 // If you get stuck, please leave comments to help us understand your thought process
 
@@ -15,40 +16,39 @@ var temp3 = 212
 
 
 
+// --------------------2) Create a function that takes in two arrays of numbers and returns a single array with all the values sorted least to greatest.
+// Use the test variables provided below. Expected output: [-9, -7, 0, 3, 7, 8, 9, 13, 22, 36]
 
-
-// --------------------2) Create a function that takes in an array of numbers and returns an array with each number multiplied by 5.
-// Use the test variable provided below. Expected output: [15, 35, 0, 30, -45]
-
-var myNumbers1 = [3, 7, 0, 6, -9]
-
-
+var myNumbers1 = [3, 7, 0, 36, -9]
+var myNumbers2 = [8, -7, 22, 9, 13]
 
 
 
-// --------------------3) Create a function that takes in an array of numbers and returns an array containing only the odd numbers.
-// Use the test variable provided below. Expected output: [-7, 9, 13]
+// --------------------3) Create a function that takes in a string of a single word and returns the string with all letters reversed.
+// Use the test variables provided below. Expected output: "ovarb", "eilrahc"
 
-var myNumbers2 = [8, -7, 0, 6, 2, 9, 13]
-
-
-
-
-
-// --------------------4) Create a function that removes all the vowels from a string.
-// Use the test variables provided below. Expected output: "HyThrLrnStdnt" "LvJvScrpt"
-
-var stringWithVowels1 = "HeyThereLearnStudent"
-var stringWithVowels2 = "ILoveJavaScript"
+var myString1 = "bravo"
+var myString2 = "charlie"
 
 
 
+// --------------------4) Create a function that takes in two numbers and subtracts the smaller number from the larger number.
+// Use the two sets of test variables provided below. Expected output: 15, 12
+
+var numberExample1 = 42
+var numberExample2 = 27
+
+var numberExample3 = 7
+var numberExample4 = 19
 
 
-// --------------------5) Copy/paste your code from #4. Refactor your code to include non-string edge cases. Inform your user if the variable passed into the vowel removal function is not a string.
-// Use the test variables provided below. Expected output: "true is not a string" "42 is not a string" "mCdngMstr"
+
+// --------------------5) Copy/paste your code from #4. Refactor your code to also accept non-number edge cases. Inform your user if the variable passed into the subtraction function is not a number.
+// Use the two sets of test variables provided below. Expected output: "Your input is not a number", 3
 // Hint: There is an operator in JavaScript called typeof :)
 
-var refactorTester1 = true
-var refactorTester2 = 42
-var refactorTester3 = "IAmACodingMaster"
+var numberExampleRefactor1 = 42
+var numberExampleRefactor2 = "hello"
+
+var numberExampleRefactor3 = 27
+var numberExampleRefactor4 = 24

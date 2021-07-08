@@ -13,7 +13,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-2. What is the difference between console.log() and return?
+2. In regards to functions, what is the difference between an argument and a parameter?
 
   Your answer:
 
@@ -21,7 +21,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-3. In regards to functions, what is the difference between an argument and a parameter?
+3. What is an index? What is the difference between index and value?
 
   Your answer:
 
@@ -55,12 +55,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Iteration:
 
-2. Jest:
+2. Higher Order Functions:
 
-3. Classes:
+3. Jest:
 
-4. Constructor:
+4. Classes:
 
 5. React:
