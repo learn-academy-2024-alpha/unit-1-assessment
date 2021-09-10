@@ -5,7 +5,7 @@ First, without external resources. Challenge yourself to answer from memory as i
 
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
-1. What is a function? Why would you use one?
+1. What is git? What is the difference between git and Github?
 
   Your answer:
 
@@ -13,7 +13,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-2. In regards to functions, what is the difference between an argument and a parameter?
+2. What types of evaluations will return a Boolean value?
 
   Your answer:
 
@@ -61,6 +61,6 @@ Research and define the following terms to the best of your ability.
 
 3. Jest:
 
-4. Classes:
+4. Objects:
 
-5. React:
+5. Classes:
