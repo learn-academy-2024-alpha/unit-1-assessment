@@ -7,7 +7,7 @@
 
 // --------------------1) What will this log?
 
-var cohort = "Delta 2021"
+var cohort = "Echo 2021"
 // console.log(cohort.length)
 
 // a) Your answer:

@@ -29,7 +29,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-4. What is a built-in method?
+4. What is iteration?
 
   Your answer:
 
@@ -55,7 +55,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. Iteration:
+1. GitHub pull request:
 
 2. Higher Order Functions:
 
