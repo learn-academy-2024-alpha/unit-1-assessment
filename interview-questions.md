@@ -13,7 +13,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-2. What types of evaluations will return a Boolean value?
+2. Which JavaScript operators will return a Boolean value?
 
   Your answer:
 

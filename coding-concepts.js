@@ -17,7 +17,7 @@ var cohort = "Echo 2021"
 // --------------------2) What will this log?
 
 var greeting = "Hello World!"
-// console.log(greeting[3])
+// console.log(greeting[4])
 
 // a) Your answer:
 // b) Verify and explain:
