@@ -7,7 +7,7 @@
 
 // --------------------1) What will this log?
 
-var cohort = "Echo 2021"
+const cohort = "Echo 2021"
 // console.log(cohort.length)
 
 // a) Your answer:
@@ -16,7 +16,7 @@ var cohort = "Echo 2021"
 
 // --------------------2) What will this log?
 
-var greeting = "Hello World!"
+const greeting = "Hello World!"
 // console.log(greeting[4])
 
 // a) Your answer:
@@ -25,8 +25,8 @@ var greeting = "Hello World!"
 
 // --------------------3) What will this log?
 
-var languages = ["JavaScript", "Ruby", "Python", "C++"]
-var index = 1
+const languages = ["JavaScript", "Ruby", "Python", "C++"]
+const index = 1
 // console.log(languages[index])
 
 // a) Your answer:
@@ -35,7 +35,7 @@ var index = 1
 
 // --------------------4) What will this log?
 
-var weekendDays = ["saturday", "sunday"]
+const weekendDays = ["saturday", "sunday"]
 // console.log(weekendDays.toUpperCase())
 
 // a) Your answer:
@@ -44,7 +44,7 @@ var weekendDays = ["saturday", "sunday"]
 
 // --------------------5) What will this log?
 
-var dataTypes = ["number", "string", "Boolean"]
+const dataTypes = ["number", "string", "Boolean"]
 // console.log(typeof dataTypes.length)
 
 // a) Your answer:
