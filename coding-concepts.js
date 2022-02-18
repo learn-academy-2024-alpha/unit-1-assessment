@@ -5,9 +5,17 @@
 // First, predict the outcome based on your understanding of the code.
 // Then, uncomment the console.log() and verify the output. Briefly explain why your initial answer was correct or incorrect.
 
+// --------------------INSTRUCTOR EXAMPLE: What will this log?
+const colors = ["tangerine", "magenta", "lilac", "daffodil"]
+// console.log(colors.push("indigo"))
+
+// a) Your answer:
+// b) Verify and explain:
+
+
 // --------------------1) What will this log?
 
-const cohort = "Echo 2021"
+const cohort = "Alpha 2022"
 // console.log(cohort.length)
 
 // a) Your answer:
