@@ -17,9 +17,9 @@ const fruit4 = "kiwi"
 
 // --------------------1) Create a function that takes in any given number and determines if the number is below boiling point, at boiling point, or above boiling point. Boiling point is 212 degrees Fahrenheit. Use the test variables provided below. Expected output: "42 is below boiling point", "350 is above boiling point", "212 is at boiling point"
 
-const temp = 42
-const temp = 350
-const temp = 212
+const temp1 = 42
+const temp2 = 350
+const temp3 = 212
 
 
 // --------------------2) Create the code that will combine the two arrays and return the length using the variables provided below. Expected output: 10
