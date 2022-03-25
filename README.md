@@ -2,7 +2,7 @@
 
 Being a developer requires an acute attention to detail. The expectation of this assessment is that all instructions are read carefully and followed completely.
 
-A good developer will ask clarifying questions when a task is unclear and use all the resources at their disposal. 
+A good developer will ask clarifying questions when a task is unclear and use all the resources at their disposal.
 
 The step-by-step instructions [here](https://github.com/LEARNAcademy/Syllabus/blob/main/github/assessments.md) breakdown the git and GitHub process for this assessment.
 
