@@ -34,11 +34,11 @@ const myNumbers1 = [3, 7, 0, 36, -9]
 const myNumbers2 = [8, -7, 42, 9, 13]
 
 
-// --------------------3) Create the code that will reverse the letters of a string using the test variable provided below. Expected output: "2202 atleD"
+// --------------------3) Create the code that will reverse the letters of a string using the test variable provided below. Expected output: "2202 ohcE"
 
 // Pseudo code:
 
-const currentCohort = "Delta 2022"
+const currentCohort = "Echo 2022"
 
 
 // --------------------4) Create a statement that will evaluate whether each number in an array is even or odd. Use the test variable provided below. Expected output: "odd" "even" "odd" "even" "odd" "even"
