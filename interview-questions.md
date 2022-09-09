@@ -30,7 +30,7 @@ Your answer:
 
 Researched answer:
 
-4. What is iteration?
+4. Compare and contrast arrays and strings.
 
 Your answer:
 
