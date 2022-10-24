@@ -12,7 +12,6 @@ const colors = ["tangerine", "magenta", "lilac", "daffodil"]
 // a) Your answer:
 // b) Verify and explain:
 
-
 // --------------------1) What will this log?
 
 const cohort = "LEARN 2022"
@@ -21,7 +20,6 @@ const cohort = "LEARN 2022"
 // a) Your answer:
 // b) Verify and explain:
 
-
 // --------------------2) What will this log?
 
 const greeting = "Hello World!"
@@ -29,7 +27,6 @@ const greeting = "Hello World!"
 
 // a) Your answer:
 // b) Verify and explain:
-
 
 // --------------------3) What will this log?
 
@@ -40,7 +37,6 @@ const index = 1
 // a) Your answer:
 // b) Verify and explain:
 
-
 // --------------------4) What will this log?
 
 const weekendDays = ["saturday", "sunday"]
@@ -49,10 +45,9 @@ const weekendDays = ["saturday", "sunday"]
 // a) Your answer:
 // b) Verify and explain:
 
-
 // --------------------5) What will this log?
 
-const dataTypes = ["number", "string", "Boolean"]
+const dataTypes = ["number", "string", "Boolean", "undefined"]
 // console.log(typeof dataTypes.length)
 
 // a) Your answer:

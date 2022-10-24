@@ -4,7 +4,7 @@
 
 // Describing your process is required.
 
-// --------------------INSTRUCTOR EXAMPLE: Create the code that determines which of the two strings has more characters. Use the two sets of test variables provided.
+// --------------------INSTRUCTOR EXAMPLE: Create a function that takes in two strings and determines which of the two strings has more characters. Use the two sets of test variables provided.
 
 // Describe your process:
 
@@ -14,21 +14,21 @@ const fruit2 = "banana"
 // Expected outcome: "banana"
 
 // Set two:
-// const fruit1 = "cherry"
-// const fruit2 = "kiwi"
+const fruit3 = "cherry"
+const fruit4 = "kiwi"
 // Expected outcome: "cherry"
 
-// --------------------1) Create the code that determines if a given number is below boiling point, at boiling point, or above boiling point. Boiling point is 212 degrees Fahrenheit. Use the test variables provided below.
+// --------------------1) Create a function that takes in a number and determines if the given number is below boiling point, at boiling point, or above boiling point. Boiling point is 212 degrees Fahrenheit. Use the test variables provided below.
 
 // Describe your process:
 
-const temp = 42
+const temp1 = 42
 // Expected output: "42 is below boiling point"
 
-// const temp = 350
+const temp2 = 350
 // Expected output: "350 is above boiling point"
 
-// const temp = 212
+const temp3 = 212
 // Expected output: "212 is at boiling point"
 
 // --------------------2) Create the code that will combine the two arrays and return the length using the test variables provided below.
@@ -43,8 +43,8 @@ const padres1998WorldSeriesRuns = [6, 3, 5, 3]
 
 // Describe your process:
 
-const currentCohort = "Foxtrot 2022"
-// Expected output: "2202 tortxoF"
+const currentCohort = "Golf 2022"
+// Expected output: "2202 floG"
 
 // --------------------4) Create the code that will return the last index of the given value from the array using the test variables provided below.
 

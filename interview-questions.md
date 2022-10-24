@@ -30,7 +30,7 @@ Your answer:
 
 Researched answer:
 
-4. Compare and contrast arrays and strings.
+4. Compare and contrast arrays and strings. Please include ways in which they are the same and ways in which they are different.
 
 Your answer:
 
