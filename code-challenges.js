@@ -43,8 +43,8 @@ const padres1998WorldSeriesRuns = [6, 3, 5, 3]
 
 // Pseudo code:
 
-const currentCohort = "Hotel 2022"
-// Expected output: "2202 letoH"
+const currentCohort = "Alpha 2023"
+// Expected output: "3202 ahplA"
 
 // --------------------4) Create the code that will return the last index of the given value from the array using the test variables provided below.
 

@@ -14,7 +14,7 @@ const colors = ["tangerine", "magenta", "lilac", "daffodil"]
 
 // --------------------1) What will this log?
 
-const cohort = "LEARN 2022"
+const cohort = "LEARN 2023"
 // console.log(cohort.length)
 
 // a) Your answer:
