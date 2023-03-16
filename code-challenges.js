@@ -22,13 +22,13 @@ const fruit4 = "kiwi"
 
 // Pseudo code:
 
-const temp1 = 42
+const temperature1 = 42
 // Expected output: "42 is below boiling point"
 
-const temp2 = 350
+const temperature2 = 350
 // Expected output: "350 is above boiling point"
 
-const temp3 = 212
+const temperature3 = 212
 // Expected output: "212 is at boiling point"
 
 // --------------------2) Create the code that will combine the two arrays and return the length using the test variables provided below.
@@ -43,8 +43,8 @@ const padres1998WorldSeriesRuns = [6, 3, 5, 3]
 
 // Pseudo code:
 
-const currentCohort = "Alpha 2023"
-// Expected output: "3202 ahplA"
+const currentCohort = "Bravo 2023"
+// Expected output: "3202 ovarB"
 
 // --------------------4) Create the code that will return the last index of the given value from the array using the test variables provided below.
 
