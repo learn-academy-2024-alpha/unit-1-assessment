@@ -24,7 +24,7 @@ Your answer:
 
 Researched answer:
 
-3. What is an index? What is the difference between index and value?
+1. What is the difference between an array's index and its value?
 
 Your answer:
 
