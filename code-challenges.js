@@ -60,13 +60,3 @@ const givenValue2 = 10
 // Expected output: 8
 
 // Pseudo code:
-
-// --------------------5) Create the code that will sort all the numbers in an array from largest to smallest. Use the test variables provided below.
-
-const sanDiegoSummerTemperatures = [79, 80, 72, 73, 82, 77, 76]
-// Expected output: [82, 80, 79, 77, 76, 73, 72]
-
-const sanDiegoWinterTemperatures = [59, 68, 62, 59, 66, 67, 66]
-// Expected output: [68, 67, 66, 66, 62, 59, 59]
-
-// Pseudo code:

@@ -53,7 +53,3 @@ Research and define the following terms to the best of your ability.
 2. Jest:
 
 3. Objects:
-
-4. Method:
-
-5. Classes:
