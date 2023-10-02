@@ -20,33 +20,26 @@ Your answer:
 
 Researched answer:
 
-2. Which JavaScript operators will return a Boolean value?
+
+2. What is the difference between an array's index and its value?
 
 Your answer:
 
 Researched answer:
 
-1. What is the difference between an array's index and its value?
+3. Compare and contrast arrays and strings. Please include ways in which they are the same and ways in which they are different.
 
 Your answer:
 
 Researched answer:
 
-4. Compare and contrast arrays and strings. Please include ways in which they are the same and ways in which they are different.
-
-Your answer:
-
-Researched answer:
-
-5. Give a brief description of proper pair programming techniques. What are the roles of each person?
-
-Your answer:
+4. STRETCH: What are the four pillars of object oriented programming?
 
 Researched answer:
 
 ## Looking Ahead: Terms for Next Week
 
-Research and define the following terms to the best of your ability.
+Research and define the following terms. Hint: use the syllabus!
 
 1. Higher Order Functions:
 
