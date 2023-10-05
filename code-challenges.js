@@ -32,8 +32,8 @@ const padres1998WorldSeriesRuns = [6, 3, 5, 3]
 
 // --------------------2) Create the code that will reverse the letters of a string using the test variable provided below.
 
-const currentCohort = "Golf 2023"
-// Expected output: "3202 floG"
+const currentCohort = "LEARN 2023"
+// Expected output: "3202 NRAEL"
 
 // Pseudo code:
 
