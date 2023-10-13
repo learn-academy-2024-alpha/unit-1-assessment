@@ -1,6 +1,6 @@
 # ASSESSMENT 1: Career Readiness
 
-The LEARN program focuses on readying our students for a career in technology. The job hunt is a daunting process that requires a lot of preparedness. Complete the following tasks to ensure progress in your professional development.
+The LEARN program focuses on readying our students for a career in technology. The job hunt is a daunting process that requires a lot of preparedness. Complete the following tasks to ensure you are progressing in your professional development.
 
 LinkedIn is the world's largest online professional networking community. An active presence on LinkedIn allows you to make professional connections, look for employment opportunities, connect with others who share your interests, and learn more about the tech industry.
 
