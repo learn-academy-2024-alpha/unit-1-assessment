@@ -5,7 +5,7 @@
 // If you get stuck, leave comments to help us understand your thought process
 
 // Reminder: Ensure you are in the correct directory
-// Run the file with the following command: $ node code - challenges.js
+// Run the file with the following command: $ node code-challenges.js
 
 // --------------------INSTRUCTOR EXAMPLE: Create a conditional statement that evaluates two strings and determines which of the strings has more characters. Use the two sets of test variables provided.
 
