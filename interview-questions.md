@@ -1,4 +1,4 @@
-# ASSESSMENT 1: Tech Interview Practice Questions
+# UNIT 1 ASSESSMENT: Tech Interview Practice Questions
 
 Answer the following questions.
 
@@ -20,7 +20,6 @@ Your answer:
 
 Researched answer:
 
-
 2. What is the difference between an array's index and its value?
 
 Your answer:
@@ -41,8 +40,8 @@ Researched answer:
 
 Research and define the following terms. Hint: use the syllabus!
 
-1. Higher-order Functions:
+1. Objects:
 
-2. Jest:
+2. Classes:
 
-3. Objects:
+3. React:

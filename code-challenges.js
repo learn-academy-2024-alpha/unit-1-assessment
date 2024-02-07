@@ -1,4 +1,4 @@
-// ASSESSMENT 1: Coding Practical Questions
+// UNIT 1 ASSESSMENT: Coding Practical Questions
 
 // Please read all questions thoroughly
 // Pseudo coding is REQUIRED
@@ -7,39 +7,43 @@
 // Reminder: Ensure you are in the correct directory
 // Run the file with the following command: $ node code-challenges.js
 
-// --------------------INSTRUCTOR EXAMPLE: Create a conditional statement that evaluates two strings and determines which of the strings has more characters. Use the two sets of test variables provided.
+// --------------------INSTRUCTOR EXAMPLE: Create a function that takes in two strings and evaluates which of the strings has more characters. Use the test variables provided.
 
-// Set one:
 const fruit1 = "apple"
 const fruit2 = "banana"
 // Expected outcome: "banana"
 
-// Set two:
-// const fruit1 = "cherry"
-// const fruit2 = "kiwi"
+const fruit3 = "cherry"
+const fruit4 = "kiwi"
 // Expected outcome: "cherry"
 
 // Pseudo code:
 
-
-// --------------------1) Create the code that will combine the two arrays and return the length using the test variables provided below.
+// --------------------1) Create a function that takes in an array of numbers and returns the sum of all the numbers. Use the test variables provided below.
 
 const padres1984WorldSeriesRuns = [2, 5, 2, 2, 4]
+// Expected output: 15
 const padres1998WorldSeriesRuns = [6, 3, 5, 3]
-// Expected output: 9
+// Expected output: 17
 
 // Pseudo code:
 
-// --------------------2) Create the code that will reverse the letters of a string using the test variable provided below.
+// --------------------2) Create a function that takes in a string and  returns the string with all the characters in reversed order. Use the test variable provided below.
 
-const currentCohort = "LEARN 2023"
-// Expected output: "3202 NRAEL"
+const lesMiserables = "Jean Valjean"
+// Expected output: "naejlaV naeJ"
+
+const lionKing = "Simba"
+// Expected output: "abmiS"
 
 // Pseudo code:
 
-// --------------------3) Create the code that will log only the odd numbers from the array using the test variable provided below.
+// --------------------3) Create a function that takes in an array and returns an array with only the items from the third, fourth, and fifth indexes. Use the test variable provided below.
 
 const stockExchange = [13, 34, -4, 42, 5, -5, 10, 27, 42, 10]
-// Expected output: 13 5 -5 27
+// Expected output: [42, 5, -5]
+
+const cohortList = ["Alpha", "Bravo", "Charlie", "Delta", "Echo", "Foxtrot"]
+// Expected output: ["Delta", "Echo", "Foxtrot"]
 
 // Pseudo code:
